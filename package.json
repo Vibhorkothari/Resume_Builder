@@ -1,0 +1,12 @@
+{
+  "name": "resume_builder",
+  "version": "1.0.0",
+  "description": "Create a project using React.js, Express.js, Node.js and Mongodb used as a Database and this project is used to create the Resume .",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
